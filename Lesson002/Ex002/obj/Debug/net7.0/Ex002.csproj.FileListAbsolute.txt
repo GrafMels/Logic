@@ -1,0 +1,15 @@
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.csproj.AssemblyReference.cache
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfoInputs.cache
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfo.cs
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.csproj.CoreCompileInputs.cache
+C:\G\Logic\Lesson002\Ex002\bin\Debug\net7.0\Ex002.exe
+C:\G\Logic\Lesson002\Ex002\bin\Debug\net7.0\Ex002.deps.json
+C:\G\Logic\Lesson002\Ex002\bin\Debug\net7.0\Ex002.runtimeconfig.json
+C:\G\Logic\Lesson002\Ex002\bin\Debug\net7.0\Ex002.dll
+C:\G\Logic\Lesson002\Ex002\bin\Debug\net7.0\Ex002.pdb
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.dll
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\refint\Ex002.dll
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.pdb
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\Ex002.genruntimeconfig.cache
+C:\G\Logic\Lesson002\Ex002\obj\Debug\net7.0\ref\Ex002.dll
